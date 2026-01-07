@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="OC2Iz5oAJW2dr7kSSdkR-lhEEyWEYYsG0XsoSGAF9CU" />
-
 # 🐶🐱 **KNN Cat vs Dog — From Scratch Image Classification Experiment**
 
 <p align="center">
